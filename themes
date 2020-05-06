@@ -3,3 +3,5 @@ import jupyterthemes as jt
 from jupyterthemes.stylefx import set_nb_theme
 
 set_nb_theme('chesterish')
+
+# https://www.kaggle.com/getting-started/97540
