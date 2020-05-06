@@ -5,3 +5,7 @@ from jupyterthemes.stylefx import set_nb_theme
 set_nb_theme('chesterish')
 
 # https://www.kaggle.com/getting-started/97540
+# https://github.com/dunovank/jupyter-themes
+
+# list available themes:
+# onedork | grade3 | oceans16 | chesterish | monokai | solarizedl | solarizedd
